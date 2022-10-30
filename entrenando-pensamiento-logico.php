@@ -1,6 +1,8 @@
 <?php
 
-/* Cómo entrenar tu pensamiento lógico
+/* 2️⃣
+
+Cómo entrenar tu pensamiento lógico
 Formas de entrenar tu pensamiento lógico:
 
 Plataformas de retos online: Aquí algunos recursos (compartido por otro compañero).
