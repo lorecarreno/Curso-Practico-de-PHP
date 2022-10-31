@@ -7,4 +7,6 @@
 
  ✨- [Curso-Práctico-de-PHP](https://platzi.com/cursos/php-practico/)
 
- 
+-------------------------------------
+
+ ✨- [PHP: Manual de PHP - Manual](https://php.net/manual/es/index.php)
