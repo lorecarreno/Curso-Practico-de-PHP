@@ -10,3 +10,6 @@
 -------------------------------------
 
  ✨- [PHP: Manual de PHP - Manual](https://php.net/manual/es/index.php)
+
+
+ 💡[www.w3schools-PHP](https://www.w3schools.com/php/default.asp) ❤
